@@ -1,13 +1,13 @@
 {
-  "name": "developers-portfolio",
+  "name": "port-vicente",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://hashirshoaeb.com/home",
+  "homepage": "http://https://Vince0731.github.io/home/home",
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Vincent Louis Rivera",
+    "email": "vince0731@gmail.com",
+    "url": "https://github.com/Vince0731"
   },
   "dependencies": {
     "axios": "^0.19.2",
