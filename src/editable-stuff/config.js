@@ -6,10 +6,10 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
-  middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  firstName: "Vincent",
+  middleName: "Louis",
+  lastName: "Rivera",
+  message: " Passionate about art, style, and substance. ",
   icons: [
     {
       image: "fa-github",
@@ -17,15 +17,15 @@ const mainBody = {
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/Doodles-By-Vince-736682846704785",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/vinceo731/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "",
     },
     {
       image: "fa-twitter",
@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "As the son of a self proclaimed 'talented artist who never reached their potential,' I am commiting to exploring my artistic talents and curiosities. I have been drawing with graphite since I can remember. Crumpling countless pages in frustration because my drawing didn't look like my dads. This was heavy motivation, and I became obsessed with detail and artistic style. I am an ameture by rule. What I lack in art education, I believe I make up for in passion, interest, and creative ability. I hope you enjoy my portfolio as much as I enjoyed creating it. Please feel free to interpret and respond to the art however you feel compelled. Cheers!",
+  resume: "",
 };
 
 // PROJECTS SECTION
